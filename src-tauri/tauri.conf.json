@@ -1,8 +1,8 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "nest",
+    "productName": "yang",
     "version": "0.0.1",
-    "identifier": "com.nest.app",
+    "identifier": "com.yang.app",
     "build": {"frontendDist": "../src"},
     "app": {
         "security": {
